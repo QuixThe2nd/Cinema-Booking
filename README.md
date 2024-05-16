@@ -4,4 +4,4 @@ Assignment 3
 
 Cinema Booking 
 
-Parsa Yarsdani and Edbert Young
+Parsa Yazdani and Edbert Young
